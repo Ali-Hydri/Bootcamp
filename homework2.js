@@ -10,3 +10,4 @@ function numbers(amount) {
   }
 }
 numbers(10);
+
